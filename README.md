@@ -29,6 +29,8 @@ java Main
 - _Time_
 - _mypackage_
 
+<br />
+
 - _Main_
     - imports local package
     - use _Scanner_ for input
