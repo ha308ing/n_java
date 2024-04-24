@@ -1,6 +1,8 @@
 # Java Intro Examples
 
-from [w3schools](https://www.w3schools.com/java/)
+from
+- [w3schools](https://www.w3schools.com/java/)
+- [dev.java](https://dev.java/learn)
 
 ## Main (Garage)
 
