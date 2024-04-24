@@ -1,3 +1,5 @@
+package notes;
+
 /* 
  * Access modifiers:
  * 

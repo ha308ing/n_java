@@ -1,3 +1,5 @@
+package notes;
+
 // arrays. for dynamic use ArrayList
 
 class Arr {

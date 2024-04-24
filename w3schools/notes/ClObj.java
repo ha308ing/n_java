@@ -1,3 +1,5 @@
+package notes;
+
 // Class and Object
 
 // objects are created from class

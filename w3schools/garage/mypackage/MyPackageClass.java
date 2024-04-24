@@ -1,7 +1,7 @@
 // javac -d . MyPakcageClass.java
 // java mypackage.MyPackageClass
 
-package mypackage;
+package garage.mypackage;
 
 public class MyPackageClass {
     public static void main(String[] args) {

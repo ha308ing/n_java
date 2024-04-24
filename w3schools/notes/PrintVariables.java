@@ -1,3 +1,5 @@
+package notes;
+
 // print variables
 
 public class PrintVariables {

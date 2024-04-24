@@ -1,3 +1,5 @@
+package notes;
+
 class Operators {
 
     /*

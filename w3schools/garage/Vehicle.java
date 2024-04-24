@@ -1,3 +1,5 @@
+package garage;
+
 abstract class Vehicle {
     public String honkSound = "Honk! Honk!";
 

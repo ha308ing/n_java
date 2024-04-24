@@ -1,3 +1,5 @@
+package notes;
+
 // strings
 
 public class Str {

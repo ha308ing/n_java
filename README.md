@@ -5,8 +5,8 @@ from [w3schools](https://www.w3schools.com/java/)
 ## Main (Garage)
 
 ```
-javac Main.java
-java Main
+javac -cp "./w3schools;./w3schools/garage/mypackage" -d "./build/w3schools" Main.java
+java -cp "./build/w3schools" Main
 ```
 
 1. Asks for data:
@@ -54,8 +54,8 @@ java Main
 ## File Handling
 
 ```
-javac FileHandling.java
-java FileHandling
+javac -d "./build/w3schools/fileHandling" "./w3schools/FileHandling.java"
+java -cp "./build/w3schools/fileHandling" FileHandling
 ```
 
 - Creates a file
@@ -74,8 +74,8 @@ java FileHandling
 ## Goods
 
 ```
-javac Goods.java
-java Goods
+javac -d "./build/w3schools/goods" "./w3schools/Goods.java"
+java -cp "./build/w3schools/goods" Goods
 ```
 
 - Creates a _HashSet_
@@ -91,8 +91,8 @@ java Goods
 ## Numbers
 
 ```
-javac Numbers.java
-java Numbers
+javac -d "./build/w3schools/numbers" "./w3schools/Numbers.java"
+java -cp "./build/w3schools/numbers" Numbers
 ```
 
 - Asks for the array size
@@ -110,8 +110,8 @@ java Numbers
 ## PrintFormatted
 
 ```
-javac PrintFormatted.java
-java PrintFormatted
+javac -d "./build/w3schools/printFormatted" "./w3schools/PrintFormatted.java"
+java -cp "./build/w3schools/printFormatted" PrintFormatted
 ```
 
 Use lamda for a string transformation and output

@@ -1,3 +1,5 @@
+package garage;
+
 public class GarageSpot {
 
     private Car _car;

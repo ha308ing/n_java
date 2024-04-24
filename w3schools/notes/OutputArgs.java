@@ -1,3 +1,5 @@
+package notes;
+
 // print args
 
 public class OutputArgs {
